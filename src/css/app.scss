@@ -1,0 +1,25 @@
+// app global css in SCSS form
+
+div {
+   color: #495a5c;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+ /*  border-color: black;
+   border-style: solid;
+   border-width: 1px; */
+ }
+ 
+ #topmenu .q-tab__label {
+   font-weight: 600;
+   font-size: 15px;
+ }
+ 
+ #topmenu2 .q-tab__label {
+   font-size: 15px;
+ }
+
+ .q-btn .q-focus-helper {
+   display: none;
+ }
+
+ 
